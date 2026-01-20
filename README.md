@@ -13,6 +13,23 @@ Relational Database Storage
 Analytics & KPI Computation
 Predictive Maintenance (Rules + ML)
 
+## 📊 Dashboard Preview
+
+### Fleet Analytics Dashboard
+The interactive dashboard provides real-time insights into fleet performance, vehicle efficiency, and maintenance risks.
+
+![Dashboard Overview](assets/dashboard_overview.png)
+
+### Maintenance Alerts
+Vehicles are proactively flagged based on engine temperature thresholds and error occurrences.
+
+![Maintenance Alerts](assets/maintenance_alerts.png)
+
+### Fuel Efficiency Analysis
+Average fuel efficiency comparison across vehicles helps identify underperforming assets.
+
+![Fuel Efficiency](assets/fuel_efficiency.png)
+
 ## 🧠 Contributors & Roles
 
 ### 👤 Backend Data Engineering  

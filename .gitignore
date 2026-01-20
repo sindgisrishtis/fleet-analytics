@@ -1,5 +1,14 @@
+# macOS
+.DS_Store
+
+# Data (generated)
+data/
+
+# Virtual environment
 venv/
-__pycache__/
+
+# Jupyter checkpoints
 .ipynb_checkpoints/
-*.db
-*.csv
+
+database/
+
